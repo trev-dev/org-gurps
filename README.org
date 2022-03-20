@@ -1,0 +1,4 @@
+* org-gurps
+This package is intended to enhance your campaign planning, documenting and journalling while using the Generic Universal RolePlaying System.
+
+This package is very much a work in progress.
